@@ -1,4 +1,5 @@
 ### Kaggle Corporación Favorita 商品销量预测比赛
+竞赛链接：https://www.kaggle.com/c/favorita-grocery-sales-forecasting  
 
 完整文档.pdf详细描述了整个竞赛的分析解决方案
 
